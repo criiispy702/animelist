@@ -66,11 +66,11 @@ footer{
 .h1-anime{
 	color: #0e754f;
 }
-.meh:hover{
+.meh:active{
 	color:red;
 
 }
-.yes:hover{
+.yes:active{
 	color: green;
 }
 .anime-img{
